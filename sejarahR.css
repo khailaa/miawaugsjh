@@ -1,0 +1,15 @@
+.body{
+    margin: 0
+}
+
+.wadahnama{
+    background: linear-gradient(to top,grey,black);
+    height: 80px;
+    width: 100%;
+    font-size: 70px;
+    color:white;
+    text-align: center;
+    margin-top: 0%;
+    font-weight: 20px;
+    opacity: 0.8;
+}
